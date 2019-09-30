@@ -61,7 +61,9 @@ https://github.com/patrickfav/uber-apk-signer
 4. **Installing and results**
 
 After installation I am able to see what's going in and out.
+
 ![](https://i.imgur.com/DRhEwmx.png)
+
 That's a mile stone but very small. 
 
 Now we have endpoints so let's test it manually with required parametres.
@@ -74,4 +76,5 @@ RESPONSE
 
 ![](https://i.imgur.com/72wW8Lm.png)
 
-Basic stuff, by the time I uploaded this they have updated Mevo with 5 min reservation feature which can be unlimited ( ͡º ͜ʖ͡º) to be continued ...
+Basic stuff, by the time I uploaded this they have updated Mevo with 5 min reservation feature which can be unlimited 
+( ͡º ͜ʖ͡º) to be continued ...
