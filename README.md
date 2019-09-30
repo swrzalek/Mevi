@@ -10,9 +10,9 @@ Mevo is bike rent app working in Tricity and other cities in Poland. While ago t
 
  1. **Introduction**
 
-App looks like this.
+App looks like this. It connects to a server sends and receive data. Like most of apps do.
+
 ![https://i.imgur.com/R03dhHi.png](https://i.imgur.com/R03dhHi.png)
-It connects to a server sends and receive data. Like most of apps do.
 
 Within a little bit of research I found out that in order to check traffic on my phone I need to root my phone. Bad idea because it is still on warranty.
 
