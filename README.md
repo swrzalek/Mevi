@@ -23,9 +23,12 @@ Here comes Fiddler
 >“Fiddler is a free web debugging tool which logs all HTTP(S) traffic between your computer and the Internet”
 
 Looks like perfect solution isn’t it?. Let’s check it.
+
 ![](https://i.imgur.com/TG47RDB.png)
+
 This is what I get when im trying to log in. And pop-out in app saying “Log in failed”.
 All because … quick research.
+
 ![](https://i.imgur.com/LLJ3Qzo.png)
 
 All of these are moving us to next step.
@@ -38,7 +41,10 @@ After downloading the .apk itself and tool called Apktool work goes on.
 After decompiling we have access to AndroidManifest.xml in which we can see that Mevo is using firebase but that’s not the thing now.
 After changing network security config I should be able to see request and endpoints.
 Compiling it back in .
+
+
 ![](https://i.imgur.com/zEfZQkX.png)
+
 
 3. **Errors and more errors**
 
@@ -60,6 +66,7 @@ That's a mile stone but very small.
 
 Now we have endpoints so let's test it manually with required parametres.
 REQ POST /api/login
+
 ![](https://i.imgur.com/df0F4SK.png)
 
 
