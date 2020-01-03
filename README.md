@@ -78,3 +78,6 @@ RESPONSE
 
 Basic stuff, by the time I uploaded this they have updated Mevo with 5 min reservation feature which can be unlimited 
 ( ͡º ͜ʖ͡º) to be continued ...
+
+EDIT:
+Mevo Bike System is dead.
